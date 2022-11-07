@@ -1,0 +1,8 @@
+name = "d1-fun"
+main = "src/index.ts"
+compatibility_date = "2022-11-07"
+
+[[ d1_databases ]]
+binding = "DB" # i.e. available in your Worker on env.DB
+database_name = "test-db-1"
+database_id = "02663b52-9afc-4a99-a6ce-17779396c5c7"
